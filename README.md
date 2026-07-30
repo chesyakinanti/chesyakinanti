@@ -1,14 +1,16 @@
 # Chesya Kinanti
 
-**Software Engineering • XR Development • Internet of Things • UI/UX Design**
+**Software Engineering • Extended Reality (AR/VR) • Internet of Things • UI/UX Design**
 
-Industrial Informatics Engineering student at **Politeknik Manufaktur Negeri Bandung** with a passion for building interactive digital products that combine software engineering, extended reality (AR/VR), embedded systems, and user-centered design.
+Industrial Informatics Engineering student at **Politeknik Manufaktur Negeri Bandung** passionate about building interactive digital products that combine software engineering, extended reality (AR/VR), embedded systems, and user-centered design.
 
-I enjoy transforming ideas into real-world solutions through web applications, mobile development, XR experiences, IoT systems, and game development. My goal is to create technology that is not only functional but also intuitive, engaging, and impactful.
+I enjoy transforming ideas into practical digital solutions through web applications, mobile apps, XR experiences, embedded systems, and IoT projects. My goal is to create technology that is functional, intuitive, and delivers meaningful user experiences.
 
 ---
 
-## Tech Stack
+# Tech Stack
+
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -45,9 +47,13 @@ I enjoy transforming ideas into real-world solutions through web applications, m
 ![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat)
 ![LoRa](https://img.shields.io/badge/LoRa-0066CC?style=flat)
 
+**Sensors & Modules**
+
+SW-420 Vibration Sensor • Ultrasonic Sensor • OLED Display • Buzzer • LEDs • Relay Module
+
 ### Networking
 
-Cisco • MikroTik • TCP/IP • VLAN • Routing & Switching • DHCP
+Cisco • MikroTik • TCP/IP • Routing & Switching • VLAN • DHCP
 
 ### Tools
 
@@ -61,7 +67,8 @@ Cisco • MikroTik • TCP/IP • VLAN • Routing & Switching • DHCP
 # Featured Projects
 
 ## Cosmic Mart
-Virtual Reality shopping game developed with **Unity** and **Meta Quest 3**, integrating **ESP32 hardware interaction** to create an immersive mixed-reality experience.
+
+An immersive Virtual Reality shopping game developed with **Unity** for **Meta Quest 3**, integrating **ESP32-powered hardware interaction** to deliver a mixed-reality gameplay experience.
 
 **Technologies:** Unity • C# • Meta Quest 3 • XR Interaction Toolkit • ESP32
 
@@ -69,25 +76,15 @@ Virtual Reality shopping game developed with **Unity** and **Meta Quest 3**, int
 
 ## AR Earthquake Monitoring System
 
-An IoT-powered Augmented Reality monitoring system that visualizes real-time earthquake vibration data using **Unity**, **Vuforia**, **ESP8266**, **MQTT**, and **Node-RED**.
+An IoT-powered Augmented Reality monitoring application that visualizes real-time earthquake vibration data using **Unity**, **Vuforia**, **ESP8266**, **MQTT**, and **Node-RED**.
 
 **Technologies:** Unity • Vuforia • ESP8266 • MQTT • Node-RED • MySQL
 
 ---
 
-## The Escape Cosmic Maze
-
-A 2D platformer game implementing the **Fuzzy Takagi-Sugeno-Kang (TSK)** algorithm to create adaptive enemy behavior based on player conditions.
-
-**Technologies:** Unity • C# • Fuzzy Logic
-
----
-
 ## Polman Aggregator
 
-A responsive web platform that centralizes Polman Bandung digital services into a single, user-friendly portal.
-
-The project includes complete UI/UX design, design system, wireframing, usability evaluation (System Usability Scale), and front-end implementation.
+A responsive web platform that centralizes various Polman Bandung digital services into a single user-friendly portal. The project includes UI/UX research, wireframing, design system creation, usability evaluation (SUS), and front-end implementation.
 
 **Technologies:** HTML • CSS • Figma • Vercel
 
@@ -95,9 +92,17 @@ The project includes complete UI/UX design, design system, wireframing, usabilit
 
 ## Indonesia News Hub
 
-A Flutter mobile application providing personalized news browsing through REST API integration, local article bookmarking, and offline storage.
+A Flutter-based mobile news application featuring REST API integration, article bookmarking, and offline local storage.
 
 **Technologies:** Flutter • REST API • SQLite
+
+---
+
+## The Escape Cosmic Maze
+
+A 2D platformer game implementing the **Fuzzy Takagi-Sugeno-Kang (TSK)** algorithm to create adaptive enemy behavior and more dynamic gameplay.
+
+**Technologies:** Unity • C# • Fuzzy Logic
 
 ---
 
@@ -112,27 +117,21 @@ A desktop application developed using Kotlin to manage employee records, leave r
 # Currently Learning
 
 - Software Architecture
-- Design Patterns
 - Clean Code
+- Design Patterns
 - Cloud Computing
 - Industrial Internet of Things
 - Advanced Flutter Development
 
 ---
 
-# GitHub Statistics
-
-> GitHub statistics and contribution graphs will automatically appear here once GitHub has enough public activity.
-
----
-
 # Connect
 
-**GitHub**  
-https://github.com/chesyakinanti
+- **GitHub**  
+  https://github.com/chesyakinanti
 
-**LinkedIn**  
-https://www.linkedin.com/in/chesya-kinanti-374713309
+- **LinkedIn**  
+  https://www.linkedin.com/in/chesya-kinanti-374713309
 
-**Email**  
-chesyak88@gmail.com
+- **Email**  
+  chesyak88@gmail.com
