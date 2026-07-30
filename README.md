@@ -1,25 +1,10 @@
 # Chesya Kinanti
 
-**Industrial Informatics Engineering Student | Software Engineering | XR | IoT | UI/UX**
+**Software Engineering • XR Development • Internet of Things • UI/UX Design**
 
-Industrial Informatics Engineering student at **Politeknik Manufaktur Negeri Bandung** with a strong interest in software engineering, extended reality (AR/VR), Internet of Things (IoT), game development, and user interface design.
+Industrial Informatics Engineering student at **Politeknik Manufaktur Negeri Bandung** with a passion for building interactive digital products that combine software engineering, extended reality (AR/VR), embedded systems, and user-centered design.
 
-I enjoy building practical digital solutions by combining software, hardware, and user-centered design. My projects range from responsive web applications and mobile development to immersive XR experiences, embedded systems, and interactive applications.
-
----
-
-## Areas of Interest
-
-- Software Engineering
-- Front-End Development
-- Mobile Development
-- Internet of Things (IoT)
-- Embedded Systems
-- Augmented Reality (AR)
-- Virtual Reality (VR)
-- Game Development
-- UI/UX Design
-- Human-Computer Interaction
+I enjoy transforming ideas into real-world solutions through web applications, mobile development, XR experiences, IoT systems, and game development. My goal is to create technology that is not only functional but also intuitive, engaging, and impactful.
 
 ---
 
@@ -34,10 +19,10 @@ I enjoy building practical digital solutions by combining software, hardware, an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Frameworks & Technologies
+### Frameworks & Platforms
 
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -65,77 +50,90 @@ I enjoy building practical digital solutions by combining software, hardware, an
 
 Cisco • MikroTik • TCP/IP • VLAN • Routing & Switching • DHCP
 
-### Design & Development Tools
+### Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Cosmic Mart
+## Cosmic Mart
+Virtual Reality shopping game developed with **Unity** and **Meta Quest 3**, integrating **ESP32 hardware interaction** to create an immersive mixed-reality experience.
 
-A Virtual Reality shopping game developed with Unity for Meta Quest 3, integrating ESP32-powered hardware interaction to create an immersive mixed-reality experience.
-
-**Tech:** Unity • C# • Meta Quest 3 • XR Interaction Toolkit • ESP32
-
----
-
-### AR Earthquake Monitoring System
-
-An Augmented Reality monitoring application integrating Unity, Vuforia, ESP8266, MQTT, Node-RED, and MySQL for real-time earthquake visualization.
-
-**Tech:** Unity • Vuforia • ESP8266 • MQTT • Node-RED
+**Technologies:** Unity • C# • Meta Quest 3 • XR Interaction Toolkit • ESP32
 
 ---
 
-### The Escape Cosmic Maze
+## AR Earthquake Monitoring System
 
-A 2D platformer game implementing the Fuzzy Takagi-Sugeno-Kang (TSK) algorithm to create adaptive enemy behavior and dynamic gameplay.
+An IoT-powered Augmented Reality monitoring system that visualizes real-time earthquake vibration data using **Unity**, **Vuforia**, **ESP8266**, **MQTT**, and **Node-RED**.
 
-**Tech:** Unity • C# • Fuzzy TSK
-
----
-
-### Polman Aggregator
-
-A responsive web portal that centralizes Polman Bandung digital services into a single platform. Designed in Figma, implemented with HTML and CSS, and deployed using Vercel.
-
-**Tech:** HTML • CSS • Figma • Vercel
+**Technologies:** Unity • Vuforia • ESP8266 • MQTT • Node-RED • MySQL
 
 ---
 
-### Indonesia News Hub
+## The Escape Cosmic Maze
 
-A Flutter-based mobile news application featuring REST API integration, local storage, and article bookmarking.
+A 2D platformer game implementing the **Fuzzy Takagi-Sugeno-Kang (TSK)** algorithm to create adaptive enemy behavior based on player conditions.
 
-**Tech:** Flutter • REST API • SQLite
-
----
-
-### Human Capital Management System
-
-A desktop application developed with Kotlin to manage employee information, leave requests, and administrative processes.
-
-**Tech:** Kotlin
+**Technologies:** Unity • C# • Fuzzy Logic
 
 ---
 
-## Currently Learning
+## Polman Aggregator
+
+A responsive web platform that centralizes Polman Bandung digital services into a single, user-friendly portal.
+
+The project includes complete UI/UX design, design system, wireframing, usability evaluation (System Usability Scale), and front-end implementation.
+
+**Technologies:** HTML • CSS • Figma • Vercel
+
+---
+
+## Indonesia News Hub
+
+A Flutter mobile application providing personalized news browsing through REST API integration, local article bookmarking, and offline storage.
+
+**Technologies:** Flutter • REST API • SQLite
+
+---
+
+## Human Capital Management System
+
+A desktop application developed using Kotlin to manage employee records, leave requests, and administrative workflows.
+
+**Technologies:** Kotlin
+
+---
+
+# Currently Learning
 
 - Software Architecture
 - Design Patterns
+- Clean Code
 - Cloud Computing
-- Industrial IoT
-- Advanced Mobile Development
+- Industrial Internet of Things
+- Advanced Flutter Development
 
 ---
 
-## Connect
+# GitHub Statistics
 
-- GitHub: https://github.com/chesyakinanti
-- LinkedIn: https://www.linkedin.com/in/chesya-kinanti-374713309
-- Email: chesyak88@gmail.com
+> GitHub statistics and contribution graphs will automatically appear here once GitHub has enough public activity.
+
+---
+
+# Connect
+
+**GitHub**  
+https://github.com/chesyakinanti
+
+**LinkedIn**  
+https://www.linkedin.com/in/chesya-kinanti-374713309
+
+**Email**  
+chesyak88@gmail.com
