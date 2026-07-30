@@ -1,23 +1,25 @@
 # Chesya Kinanti
 
-**Building Digital Solutions Across Software & Industrial Technology**
+**Industrial Informatics Engineering Student | Software Engineering | XR | IoT | UI/UX**
 
-Industrial Informatics student at Politeknik Manufaktur Bandung with a strong interest in software engineering and digital technologies. I enjoy developing practical solutions through web and mobile applications, extended reality (XR), embedded systems, computer networking, and user-centered design.
+Industrial Informatics Engineering student at **Politeknik Manufaktur Negeri Bandung** with a strong interest in software engineering, extended reality (AR/VR), Internet of Things (IoT), game development, and user interface design.
 
-I believe technology creates the greatest impact when software, hardware, and user experience work together to solve real-world problems. I continuously explore new technologies while building projects that strengthen both my technical and problem-solving skills.
+I enjoy building practical digital solutions by combining software, hardware, and user-centered design. My projects range from responsive web applications and mobile development to immersive XR experiences, embedded systems, and interactive applications.
 
 ---
 
 ## Areas of Interest
 
 - Software Engineering
-- Web Development
+- Front-End Development
 - Mobile Development
-- Embedded Systems & IoT
-- Computer Networking
-- Extended Reality (AR/VR)
+- Internet of Things (IoT)
+- Embedded Systems
+- Augmented Reality (AR)
+- Virtual Reality (VR)
+- Game Development
 - UI/UX Design
-- Industrial Digital Technology
+- Human-Computer Interaction
 
 ---
 
@@ -25,70 +27,115 @@ I believe technology creates the greatest impact when software, hardware, and us
 
 ### Programming Languages
 
-C • C++ • PHP • JavaScript • Kotlin • Dart
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Web & Mobile Development
+### Frameworks & Technologies
 
-HTML • CSS • Flutter • REST API • JSON
+![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-00ADEF?style=flat)
+![Meta Quest 3](https://img.shields.io/badge/Meta%20Quest%203-0467DF?style=flat)
+![XR Interaction Toolkit](https://img.shields.io/badge/XR%20Interaction%20Toolkit-512BD4?style=flat)
 
 ### Database
 
-MySQL • PostgreSQL • MongoDB • Firebase • SQLite • phpMyAdmin
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat)
 
-### Embedded Systems & IoT
+### IoT & Embedded Systems
 
-ESP32 • ESP8266 • Arduino • MQTT • LoRa • Node-RED • Sensor Integration
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
+![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat)
+![LoRa](https://img.shields.io/badge/LoRa-0066CC?style=flat)
 
-### Computer Networking
+### Networking
 
-Cisco • MikroTik • TCP/IP • Routing & Switching • VLAN • DHCP
+Cisco • MikroTik • TCP/IP • VLAN • Routing & Switching • DHCP
 
-### XR Development
+### Design & Development Tools
 
-Unity • Meta Horizon • SideQuest
-
-### Design
-
-Figma • Canva • UI/UX Design • Interactive Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### VR Cosmic-Mart
-An immersive virtual reality shopping game developed using Unity and Meta Horizon. Players help an alien repair its crashed UFO by exploring a supermarket and collecting required items through interactive gameplay.
+### Cosmic Mart
 
-### The Escape Cosmic Mart
-A 2D platformer game built with Unity where players take the role of an astronaut escaping an alien maze while collecting stars and avoiding enemies.
+A Virtual Reality shopping game developed with Unity for Meta Quest 3, integrating ESP32-powered hardware interaction to create an immersive mixed-reality experience.
 
-### Earthquake Monitoring AR
-An augmented reality application integrated with ESP8266 and vibration sensors to visualize earthquake detection in real time through interactive AR experiences.
+**Tech:** Unity • C# • Meta Quest 3 • XR Interaction Toolkit • ESP32
 
-### IoT Telemetry & Smart Control System
-An IoT monitoring and remote control system integrating ESP32, LoRa, MQTT, Node-RED, and cloud services for real-time environmental data acquisition and device management.
+---
+
+### AR Earthquake Monitoring System
+
+An Augmented Reality monitoring application integrating Unity, Vuforia, ESP8266, MQTT, Node-RED, and MySQL for real-time earthquake visualization.
+
+**Tech:** Unity • Vuforia • ESP8266 • MQTT • Node-RED
+
+---
+
+### The Escape Cosmic Maze
+
+A 2D platformer game implementing the Fuzzy Takagi-Sugeno-Kang (TSK) algorithm to create adaptive enemy behavior and dynamic gameplay.
+
+**Tech:** Unity • C# • Fuzzy TSK
+
+---
+
+### Polman Aggregator
+
+A responsive web portal that centralizes Polman Bandung digital services into a single platform. Designed in Figma, implemented with HTML and CSS, and deployed using Vercel.
+
+**Tech:** HTML • CSS • Figma • Vercel
+
+---
 
 ### Indonesia News Hub
-A Flutter-based mobile news application featuring REST API integration, SQLite local storage, and personalized favorite article management.
+
+A Flutter-based mobile news application featuring REST API integration, local storage, and article bookmarking.
+
+**Tech:** Flutter • REST API • SQLite
+
+---
 
 ### Human Capital Management System
-A Kotlin-based desktop application designed to manage employee information, leave requests, and administrative processes.
 
-### Polman Information Aggregator
-A UI/UX redesign and web platform concept that centralizes campus information into a more accessible and user-friendly experience.
+A desktop application developed with Kotlin to manage employee information, leave requests, and administrative processes.
+
+**Tech:** Kotlin
 
 ---
 
 ## Currently Learning
 
 - Software Architecture
-- Clean Code & Design Patterns
+- Design Patterns
 - Cloud Computing
-- Industrial Automation
+- Industrial IoT
 - Advanced Mobile Development
 
 ---
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/chesya-kinanti-374713309
+- GitHub: https://github.com/chesyakinanti
+- LinkedIn: https://www.linkedin.com/in/chesya-kinanti-374713309
 - Email: chesyak88@gmail.com
