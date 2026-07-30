@@ -4,7 +4,7 @@
 
 Industrial Informatics Engineering student at **Politeknik Manufaktur Negeri Bandung** passionate about building interactive digital products that combine software engineering, extended reality (AR/VR), embedded systems, and user-centered design.
 
-I enjoy transforming ideas into practical digital solutions through web applications, mobile apps, XR experiences, embedded systems, and IoT projects. My goal is to create technology that is functional, intuitive, and delivers meaningful user experiences.
+I enjoy transforming ideas into practical digital solutions through web applications, mobile applications, XR experiences, embedded systems, and IoT solutions. My goal is to build technology that is functional, intuitive, and delivers meaningful user experiences.
 
 ---
 
@@ -90,14 +90,6 @@ A responsive web platform that centralizes various Polman Bandung digital servic
 
 ---
 
-## Indonesia News Hub
-
-A Flutter-based mobile news application featuring REST API integration, article bookmarking, and offline local storage.
-
-**Technologies:** Flutter • REST API • SQLite
-
----
-
 ## The Escape Cosmic Maze
 
 A 2D platformer game implementing the **Fuzzy Takagi-Sugeno-Kang (TSK)** algorithm to create adaptive enemy behavior and more dynamic gameplay.
@@ -108,9 +100,9 @@ A 2D platformer game implementing the **Fuzzy Takagi-Sugeno-Kang (TSK)** algorit
 
 ## Human Capital Management System
 
-A desktop application developed using Kotlin to manage employee records, leave requests, and administrative workflows.
+A Human Capital Management (HCM) application developed with **Kotlin**, implementing **Object-Oriented Programming (OOP)** principles and RESTful APIs for employee administration and leave management.
 
-**Technologies:** Kotlin
+**Technologies:** Kotlin • REST API • Postman • OOP
 
 ---
 
