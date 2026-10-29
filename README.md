@@ -1,129 +1,81 @@
-# Chesya Kinanti
+Chesya Kinanti
+Machine Learning • Data Analytics • Software Development • UI/UX • Networking
 
-**Software Engineering • Extended Reality (AR/VR) • Internet of Things • UI/UX Design**
+Industrial Informatics Engineering Technology student at Politeknik Manufaktur Bandung with hands-on project experience in machine learning, software development, data analytics, UI/UX design, and IoT systems. Experienced in developing web applications, designing digital prototypes, and integrating hardware and software. Interested in building practical, user-centered, and data-driven solutions for industrial applications.
 
-Industrial Informatics Engineering student at **Politeknik Manufaktur Negeri Bandung** passionate about building interactive digital products that combine software engineering, extended reality (AR/VR), embedded systems, and user-centered design.
+LinkedIn · GitHub · Email
+Technical Skills
+Programming: Python, JavaScript, C, C++, C#, PHP, Kotlin, Dart
+Web & Mobile: React, Next.js, Node.js, Laravel, FastAPI, Flutter, HTML, CSS
+Databases: MySQL, PostgreSQL, MongoDB, SQLite, Firebase
+Machine Learning & AI: CNN, Computer Vision, NLP, RAG, Data Preprocessing, Data Visualization
+IoT & XR: Arduino, ESP32, MQTT, Node-RED, Unity, AR/VR/MR
+UI/UX Design: Figma, Wireframing, Prototyping, Design Systems, Usability Testing
+Networking & Infrastructure: Cisco, MikroTik, Network Administration, Network Troubleshooting, Routing & Switching, Network Protocols
+Tools: Git, GitHub, VS Code, Postman, Vercel, Trello, Notion, Microsoft Office
+Selected Projects
+1. TeraPublic — Public Facilities & Accessibility Monitoring Platform
+A public transparency platform that integrates public datasets to support monitoring of public facilities, accessibility, and development projects. I designed and developed the frontend using Next.js, including the interface, wireframes, visual design, design system, and interactive prototypes. The project also explores a Retrieval-Augmented Generation (RAG) approach to provide contextual responses grounded in available public information.
 
-I enjoy transforming ideas into practical digital solutions through web applications, mobile applications, XR experiences, embedded systems, and IoT solutions. My goal is to build technology that is functional, intuitive, and delivers meaningful user experiences.
+Technologies: Next.js · TypeScript · UI/UX Design · Public Data Integration · Data Analytics · RAG
+Repository: TeraPublic
+2. MEDORA — AI-Powered Medical Fact-Checking Platform
+A medical fact-checking platform designed to help address health misinformation through NLP-based claim extraction, scientific evidence retrieval, and validation by medical professionals. I designed the end-to-end UI/UX in Figma and developed responsive frontend interfaces for public users, medical reviewers, and administrators.
 
----
+Technologies: Next.js · React · Figma · Laravel · Python FastAPI · Hugging Face · MySQL
+Repository: MEDORA
+3. SyncUp — AI-Powered Team Collaboration Health Platform
+A UI/UX product concept for helping student and project-based teams monitor collaboration health, workload balance, engagement, communication, and goal alignment. I designed user flows, wireframes, a consistent design system, and a connected clickable Figma prototype featuring 12 core screens.
 
-# Tech Stack
+Technologies: Figma · UI/UX Design · User Flows · Wireframing · Design Systems · Prototyping
+Prototype: Open SyncUp in Figma
+4. SenseForge — Industrial Sensor Anomaly Detection System
+A web-based industrial sensor analytics system that integrates machine learning and Big Data Analytics to analyze multisensor data and identify potentially anomalous patterns. The system provides sensor data processing, database aggregation, historical records, and interactive visualizations through a dashboard. My role focused on frontend development and dashboard implementation.
 
-### Programming Languages
+Technologies: Python · FastAPI · Next.js · MongoDB Atlas · Machine Learning · Big Data Analytics
+Repository: SenseForge
+5. FruGrade — CNN-Based Fruit Type & Freshness Classification
+A computer vision project using a Convolutional Neural Network (CNN) to classify fruit types and freshness from uploaded images. The workflow includes image classification and model evaluation using metrics such as accuracy, precision, recall, F1-score, and a confusion matrix.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Technologies: Python · PyTorch · Convolutional Neural Networks · Computer Vision
+6. Cosmic Mart — Immersive VR Game with Hardware Integration
+An immersive supermarket game developed with Unity, combining virtual reality interactions with ESP32-based physical hardware. As the Store Architect, I designed the virtual supermarket environment, arranged 3D product assets, and configured colliders and rigidbodies to support object interactions in VR.
 
-### Frameworks & Platforms
+Technologies: Unity · C# · Meta Quest 3 · ESP32 · Ultrasonic Sensor · XR Interaction Toolkit
+Repository: Cosmic Mart
+Experience
+PT Gunze Indonesia — Accounting & Export-Import (EXIM) Intern
+December 2023 – March 2024
+- Supported Accounting, Export-Import (EXIM), and Human Resources (HR) operations.
+- Assisted with data entry, invoice and shipping document verification, record management, employee data administration, and document archiving.
+AWS Cloud Computing Club Competition (C4) — Front-End Developer & UI Designer
+June 2023 – October 2023 · Bekasi & Karawang Region
+- Contributed to a responsive website featuring traditional recipes from West Java through frontend development and UI design.
+- Received Honorable Mention II in the competition.
+Education
+Politeknik Manufaktur Bandung · 2024 – Present
+Industrial Informatics Engineering Technology · GPA: 3.47/4.00
 
-![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Vuforia](https://img.shields.io/badge/Vuforia-00ADEF?style=flat)
-![Meta Quest 3](https://img.shields.io/badge/Meta%20Quest%203-0467DF?style=flat)
-![XR Interaction Toolkit](https://img.shields.io/badge/XR%20Interaction%20Toolkit-512BD4?style=flat)
+SMK Negeri 1 Cikarang Selatan · 2021 – 2024
+Computer Network and Telecommunication Engineering
+Organizational Experience
+HIMAMO — Himpunan Mahasiswa Teknik Otomasi Manufaktur dan Mekatronika
+Organization Relations Division — External Affairs Subdivision · 2024 – Present
 
-### Database
+Served as a Public Relations Representative and committee member for Stuban (Inter-University Study Visit), and as Deputy Head of Committee for Rencang Eksternal. Supported external coordination, event planning, team management, and staff mentoring.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat)
+RESP — Robotic Engineer Society of Polman
+Information and Communication Division (Kominfo) · 2024 – Present
 
-### IoT & Embedded Systems
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
-![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat)
-![LoRa](https://img.shields.io/badge/LoRa-0066CC?style=flat)
-
-**Sensors & Modules**
-
-SW-420 Vibration Sensor • Ultrasonic Sensor • OLED Display • Buzzer • LEDs • Relay Module
-
-### Networking
-
-Cisco • MikroTik • TCP/IP • Routing & Switching • VLAN • DHCP
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-# Featured Projects
-
-## Cosmic Mart
-
-An immersive Virtual Reality shopping game developed with **Unity** for **Meta Quest 3**, integrating **ESP32-powered hardware interaction** to deliver a mixed-reality gameplay experience.
-
-**Technologies:** Unity • C# • Meta Quest 3 • XR Interaction Toolkit • ESP32
-
----
-
-## AR Earthquake Monitoring System
-
-An IoT-powered Augmented Reality monitoring application that visualizes real-time earthquake vibration data using **Unity**, **Vuforia**, **ESP8266**, **MQTT**, and **Node-RED**.
-
-**Technologies:** Unity • Vuforia • ESP8266 • MQTT • Node-RED • MySQL
-
----
-
-## Polman Aggregator
-
-A responsive web platform that centralizes various Polman Bandung digital services into a single user-friendly portal. The project includes UI/UX research, wireframing, design system creation, usability evaluation (SUS), and front-end implementation.
-
-**Technologies:** HTML • CSS • Figma • Vercel
-
----
-
-## The Escape Cosmic Maze
-
-A 2D platformer game implementing the **Fuzzy Takagi-Sugeno-Kang (TSK)** algorithm to create adaptive enemy behavior and more dynamic gameplay.
-
-**Technologies:** Unity • C# • Fuzzy Logic
-
----
-
-## Human Capital Management System
-
-A Human Capital Management (HCM) application developed with **Kotlin**, implementing **Object-Oriented Programming (OOP)** principles and RESTful APIs for employee administration and leave management.
-
-**Technologies:** Kotlin • REST API • Postman • OOP
-
----
-
-# Currently Learning
-
-- Software Architecture
-- Clean Code
-- Design Patterns
-- Cloud Computing
-- Industrial Internet of Things
-- Advanced Flutter Development
-
----
-
-# Connect
-
-- **GitHub**  
-  https://github.com/chesyakinanti
-
-- **LinkedIn**  
-  https://www.linkedin.com/in/chesya-kinanti-374713309
-
-- **Email**  
-  chesyak88@gmail.com
+Designed visual communication materials for robotics programs and organizational events while supporting event operations, student organization booth management, and member recruitment.
+Certifications & Achievements
+- MikroTik Certified Network Associate (MTCNA) — MikroTik · 2023
+- AWS Cloud Computing Club Competition (C4) — Amazon Web Services (AWS) · 2023 · Honorable Mention II
+- ITechno Cup 2026 — International UI/UX Design Competition — HIMATIK, Politeknik Negeri Jakarta · 2026
+- Software Engineering Coding Camp — RevoU · 2025
+- Digital Marketing Mini Course — RevoU · 2025
+- Digitalization and SEO Marketing Seminar & Training — Politeknik Astra · 2023
+Contact
+- LinkedIn: chesya-kinanti-374713309
+- GitHub: chesyakinanti
+- Email: chesyak88@gmail.com
